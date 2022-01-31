@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Hy Food</string>
+    <string name="roti_bakar">Roti Bakar</string>
+    <string name="rp_25_000">Rp. 25.000</string>
+    <string name="_1">1</string>
+    <string name="pizza_yang_sanagt_enak_sekali_ya_guys_ya">Pizza yang sanagt enak sekali ya guys ya</string>
+    <string name="pizza">Pizza</string>
+    <string name="total_rp_25_000">Total : Rp 25.000</string>
+    <string name="place_order">Place Order</string>
+    <string name="_2022090011">2022090011</string>
+    <string name="placed">PLACED</string>
+    <string name="_09873292323">09873292323</string>
+    <string name="jln_beringin">JLN BERINGIN</string>
+    <string name="sign_in">Sign In</string>
+    <string name="no_handphone">no Handphone</string>
+    <string name="password">password</string>
+</resources>

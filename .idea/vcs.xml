@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$USER_HOME$" vcs="" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Android-SlidingUp-Panel" vcs="" />
+    <mapping directory="$PROJECT_DIR$/AndroidCamera" vcs="" />
+    <mapping directory="$PROJECT_DIR$/AndroidGoogleLocationAPI" vcs="" />
+    <mapping directory="$PROJECT_DIR$/AndroidPdfViewer" vcs="" />
+    <mapping directory="$PROJECT_DIR$/AndroidSlidingUpPanel" vcs="" />
+    <mapping directory="$PROJECT_DIR$/BottomSheetsSample" vcs="" />
+    <mapping directory="$PROJECT_DIR$/Camera1Java" vcs="" />
+    <mapping directory="$PROJECT_DIR$/CameraFragment" vcs="" />
+    <mapping directory="$PROJECT_DIR$/CameraX" vcs="" />
+    <mapping directory="$PROJECT_DIR$/CameraXApp" vcs="" />
+    <mapping directory="$PROJECT_DIR$/CameraXObjectDetection" vcs="" />
+    <mapping directory="$PROJECT_DIR$/IntroScreen" vcs="" />
+    <mapping directory="$PROJECT_DIR$/Mobile-My-Dompet" vcs="" />
+    <mapping directory="$PROJECT_DIR$/Modal-Bottom-Sheet" vcs="" />
+    <mapping directory="$PROJECT_DIR$/MyKucing" vcs="" />
+    <mapping directory="$PROJECT_DIR$/MyKucingAdmin" vcs="" />
+    <mapping directory="$PROJECT_DIR$/SiswaAplikasi" vcs="" />
+    <mapping directory="$PROJECT_DIR$/TabianCustomCamera" vcs="" />
+    <mapping directory="$PROJECT_DIR$/WorkManagerPeriodicRequest" vcs="" />
+    <mapping directory="$PROJECT_DIR$/android-camera" vcs="" />
+    <mapping directory="$PROJECT_DIR$/android-camerax" vcs="" />
+    <mapping directory="$PROJECT_DIR$/android-camerax-java" vcs="" />
+    <mapping directory="$PROJECT_DIR$/android-camerax-sample" vcs="" />
+    <mapping directory="$PROJECT_DIR$/android-mvvm-dagger-2-rxjava-example" vcs="" />
+    <mapping directory="$PROJECT_DIR$/camera-samples" vcs="" />
+    <mapping directory="$PROJECT_DIR$/cameraX3/CameraX" vcs="" />
+    <mapping directory="$PROJECT_DIR$/cameraX3/CameraXView" vcs="" />
+    <mapping directory="$PROJECT_DIR$/cameraX4/CameraX" vcs="" />
+    <mapping directory="$PROJECT_DIR$/cameraX4/CameraXApp" vcs="" />
+    <mapping directory="$PROJECT_DIR$/cameraX4/android-camerax" vcs="" />
+    <mapping directory="$PROJECT_DIR$/cameraX4/camerax-tflite" vcs="" />
+    <mapping directory="$PROJECT_DIR$/cameraX4/flowcamera" vcs="" />
+    <mapping directory="$PROJECT_DIR$/camerakit-android" vcs="" />
+    <mapping directory="$PROJECT_DIR$/camerakit-examples" vcs="" />
+    <mapping directory="$PROJECT_DIR$/cameraview" vcs="" />
+    <mapping directory="$PROJECT_DIR$/compose-pokedex" vcs="" />
+    <mapping directory="$PROJECT_DIR$/itsme-android" vcs="" />
+    <mapping directory="$PROJECT_DIR$/kawal_covid" vcs="" />
+    <mapping directory="$PROJECT_DIR$/mcsmobile" vcs="" />
+    <mapping directory="$PROJECT_DIR$/notification" vcs="" />
+    <mapping directory="$PROJECT_DIR$/tifosifutsal" vcs="" />
+    <mapping directory="$PROJECT_DIR$/uCrop" vcs="" />
+    <mapping directory="$PROJECT_DIR$/visor-android" vcs="" />
+  </component>
+</project>

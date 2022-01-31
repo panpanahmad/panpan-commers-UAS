@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Pemrograman/JAVA NATIVE/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.121" />
+        <entry key="..\:/Pemrograman/JAVA NATIVE/app/src/main/res/drawable/ic_baseline_shopping_cart_24.xml" value="0.121" />
+        <entry key="..\:/Pemrograman/JAVA NATIVE/app/src/main/res/drawable/ic_launcher_background.xml" value="0.121" />
+        <entry key="..\:/Pemrograman/JAVA NATIVE/app/src/main/res/drawable/selector.xml" value="0.2265" />
+        <entry key="..\:/Pemrograman/JAVA NATIVE/app/src/main/res/layout/activity_chart.xml" value="0.176" />
+        <entry key="..\:/Pemrograman/JAVA NATIVE/app/src/main/res/layout/activity_detail_menu.xml" value="0.2" />
+        <entry key="..\:/Pemrograman/JAVA NATIVE/app/src/main/res/layout/activity_history.xml" value="0.22826086956521738" />
+        <entry key="..\:/Pemrograman/JAVA NATIVE/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Pemrograman/JAVA NATIVE/app/src/main/res/layout/activity_main.xml" value="0.6" />
+        <entry key="..\:/Pemrograman/JAVA NATIVE/app/src/main/res/layout/activity_menu.xml" value="0.17864583333333334" />
+        <entry key="..\:/Pemrograman/JAVA NATIVE/app/src/main/res/layout/list_history.xml" value="0.22826086956521738" />
+        <entry key="..\:/Pemrograman/JAVA NATIVE/app/src/main/res/layout/list_item.xml" value="0.4213938411669368" />
+        <entry key="..\:/Pemrograman/JAVA NATIVE/app/src/main/res/layout/list_menu.xml" value="0.2" />
+        <entry key="..\:/Pemrograman/JAVA NATIVE/hy food/app/src/main/res/layout/activity_login.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/ASUS/hy_food_uas/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.198" />
+        <entry key="..\:/Users/ASUS/hy_food_uas/app/src/main/res/drawable/border.xml" value="0.198" />
+        <entry key="..\:/Users/ASUS/hy_food_uas/app/src/main/res/drawable/btn_exit.xml" value="0.198" />
+        <entry key="..\:/Users/ASUS/hy_food_uas/app/src/main/res/drawable/button_login.xml" value="0.198" />
+        <entry key="..\:/Users/ASUS/hy_food_uas/app/src/main/res/drawable/gradient.xml" value="0.198" />
+        <entry key="..\:/Users/ASUS/hy_food_uas/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.198" />
+        <entry key="..\:/Users/ASUS/hy_food_uas/app/src/main/res/drawable/ic_baseline_remove_24.xml" value="0.198" />
+        <entry key="..\:/Users/ASUS/hy_food_uas/app/src/main/res/drawable/ic_baseline_shopping_cart_24.xml" value="0.198" />
+        <entry key="..\:/Users/ASUS/hy_food_uas/app/src/main/res/drawable/ic_launcher_background.xml" value="0.198" />
+        <entry key="..\:/Users/ASUS/hy_food_uas/app/src/main/res/layout/about.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/ASUS/hy_food_uas/app/src/main/res/layout/activity_chart.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ASUS/hy_food_uas/app/src/main/res/layout/activity_detail_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ASUS/hy_food_uas/app/src/main/res/layout/activity_hal_register.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/hy_food_uas/app/src/main/res/layout/activity_history.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ASUS/hy_food_uas/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Users/ASUS/hy_food_uas/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ASUS/hy_food_uas/app/src/main/res/layout/activity_menu.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/hy_food_uas/app/src/main/res/layout/list_history.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ASUS/hy_food_uas/app/src/main/res/layout/list_item.xml" value="0.33" />
+        <entry key="..\:/Users/ASUS/hy_food_uas/app/src/main/res/layout/list_menu.xml" value="0.33" />
+        <entry key="..\:/Users/ASUS/hy_food_uas/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.198" />
+        <entry key="..\:/Users/ASUS/hy_food_uas/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.198" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
